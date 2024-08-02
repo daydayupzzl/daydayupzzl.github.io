@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "CV"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # About Me
 
 I am Zuolong Zhang, currently pursuing a Master's degree in Network and Information Security at the School of Software, Henan University. My academic journey began with an undergraduate degree from the College of Information Engineering, Henan University of Science and Technology, where I excelled with a GPA of 4.43 and received several honors.
