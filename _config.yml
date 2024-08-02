@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zuolong Zhang / Site Title"
+title                    : "Zuolong Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Zuolong Zhang"
 description              : &description "A boy wandering in the beach of AI-assisted drug discovery"
