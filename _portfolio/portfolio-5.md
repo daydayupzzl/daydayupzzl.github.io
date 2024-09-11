@@ -1,5 +1,5 @@
 ---
-title: ""Challenge Cup" "
+title: "2024 Challenge Cup"
 excerpt: "2024 Challenge Cup Henan College Students' Business Plan Competition <br/><img src='/images/Tiao/tiao-2.png'>"
 collection: portfolio
 ---
