@@ -16,7 +16,8 @@ I also lead a team that developed a **cloud-based intelligent AI drug screening 
 As I look towards the future, I am passionate about pursuing a **Ph.D.** starting in the Fall of 2025, with a focus on **AI for Medicine** and **AI for Drug Discovery**. I am eager to collaborate with experts and contribute to groundbreaking research in these fields. Please feel free to contact me at daydayupzzl@163.com.
 
 # News
-
+- **October 2024:** My team won The First prize of the 6th National College Students' Intelligent Technology Application Competition
+- **September 2024:** My team won The Second Prize of Huawei Cloud Developer Competition in Jiangsu Province
 - **July 2024:** Attended the International Conference on Intelligent Systems for Molecular Biology (ISMB) in Montreal, where my paper was accepted for an **oral presentation** and nominated for the best paper award.
 - **July 2024:** My team won a national award in the "Challenge Cup" National College Student Business Plan Competition and third prize in the "Duzheng Cup" Biomedical AI Innovation Application Competition.
 - **June 2024:** Proposed a drug-drug interaction (DDI) prediction model named **ComNet**, which improves the prediction accuracy and reliability of complex drug interactions.
