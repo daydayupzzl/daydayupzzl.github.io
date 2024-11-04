@@ -10,6 +10,8 @@ As I look towards the future, I am passionate about pursuing a **Ph.D.** startin
 
 # News
 
+- **October 2024:** My team won The First prize of the 6th National College Students' Intelligent Technology Application Competition
+- **September 2024:** My team won The Second Prize of Huawei Cloud Developer Competition in Jiangsu Province
 - **July 2024:** Attended the International Conference on Intelligent Systems for Molecular Biology (ISMB) in Montreal, where my paper was accepted for an **oral presentation** and nominated for the best paper award.
 - **July 2024:** My team won a national award in the "Challenge Cup" National College Student Business Plan Competition and third prize in the "Duzheng Cup" Biomedical AI Innovation Application Competition.
 - **June 2024:** Proposed a drug-drug interaction (DDI) prediction model named **ComNet**, which improves the prediction accuracy and reliability of complex drug interactions.
