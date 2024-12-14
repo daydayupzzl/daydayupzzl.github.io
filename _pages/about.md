@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Zuolong Zhang, currently pursuing a Master's degree in Network and Information Security at the School of Software, Henan University. My academic journey began with an undergraduate degree from the College of Information Engineering, Henan University of Science and Technology, where I excelled with a GPA of 4.43 and received several honors.
+I am Zuolong Zhang, currently pursuing a Master's degree in Network and Information Security at the School of Software, Henan University. My academic journey began with an undergraduate degree from the College of Information Engineering, Henan University of Science and Technology, where I excelled with a GPA of 4.3/5 and received several honors.
 
 My research interests lie at the intersection of **artificial intelligence** and **biomedicine**, focusing on drug-target interaction prediction, single-cell chromatin conformation capture analysis, and the development of drug combination side effect prediction models. I have developed innovative methods such as **HeteroDTA**, **GraphkmerDTA**, and **ComNet**, which have significantly advanced the fields of drug discovery and combination predictions. These methods have demonstrated superior performance on benchmark datasets and have been validated through real-world applications. I have actively shared my research findings at prestigious conferences, including an **oral presentation** at the International Conference on Intelligent Systems for Molecular Biology (ISMB), where my work was **nominated** for the best paper award. 
 
