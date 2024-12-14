@@ -25,13 +25,13 @@ integrating pharmacophore and pre-trained models
 
 * GraphkmerDTA: Integrating Local Sequence Patterns and Topological Information for Drug-Target Binding Affinity Prediction and Its Application in Multi-target Anti-Alzheimer’s Drug
 Discovery
-  * First author, Revised [Nov 2022 - May 2023]
+  * First author, Accepted by Molecular Diversity [Nov 2022 - May 2023]
   * Proposed a novel deep learning method, GraphkmerDTA, integrating Kmer features with structural topology to predict
 drug-target binding affinity (DTA), outperforming existing methods on benchmark datasets.
   * Applied GraphkmerDTA in an AI-assisted network pharmacology strategy to discover key anti-Alzheimer’s disease
 components from the Lonicera japonica flower, demonstrating the model’s effectiveness in multitarget drug discovery
 
-* ComNet: Enhancing Predictive Accuracy and Interpretability in Drug Combination Side Effects 
+* ComNet: A Multi-Modal Deep Learning Model for Predicting Drug Combination Side Effects
   * First author, Revised [Jul 2024 - Sep 2024]
   * A novel drug-drug interaction (DDI) prediction model named ComNet is proposed, which improves the prediction
 accuracy and reliability of complex drug interactions by combining multi-modal feature extraction, multi-scale subgraph
@@ -45,6 +45,7 @@ information fusion and multi-modal feature fusion mechanism.
   
 HONORS & AWARDS
 ======
+- The First prize of the National Artificial Intelligence Application Scene Innovation Challenge Competition Dec 2024
 - The First prize of the 6th National College Students' Intelligent Technology Application Competition Oct 2024
 - National Award of "Challenge Cup" National College Student Business Plan Competition 2024 July 2024
 - The Second Prize of Huawei Cloud Developer Competition in Jiangsu Province Sep 2024
