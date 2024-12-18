@@ -13,7 +13,7 @@ My research interests lie at the intersection of **artificial intelligence** and
 
 I also lead a team that developed a **cloud-based intelligent AI drug screening platform** and achieved excellent results in multiple algorithm competitions. My technical skills include proficiency in programming languages such as Python, Java, and C/C++, as well as expertise in scientific computing and cheminformatics tools. I am experienced with the PyTorch deep learning framework, which I use to develop advanced AI models for drug discovery.
 
-As I look towards the future, I am passionate about pursuing a **Ph.D.** starting in the Fall of 2025, with a focus on **AI for Medicine** and **AI for Drug Discovery**. I am eager to collaborate with experts and contribute to groundbreaking research in these fields. Please feel free to contact me at daydayupzzl@163.com.
+I am passionate about pursuing a **Ph.D.** starting in the Fall of 2025, with a focus on **AI for Medicine**. I am eager to collaborate with experts and contribute to groundbreaking research in these fields. Please feel free to contact me.
 
 # News
 - **Dec 2024:** 🎉 Our work about Drug Combination side effect prediction has been accepted by **Journal of Chemical Information and Modeling** (5.6/Q1)

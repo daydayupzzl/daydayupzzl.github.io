@@ -33,7 +33,7 @@ components from the Lonicera japonica flower, demonstrating the model’s effect
 
 * ComNet: A Multi-View Deep Learning Model for Predicting Drug Combination Side Effects
   * First author, Accepted by Journal of Chemical Information and Modeling  [Jul 2024 - Sep 2024]
-  * A novel drug-drug interaction (DDI) prediction model named ComNet is proposed, which improves the prediction
+  * A novel drug combination side effect prediction model named ComNet is proposed, which improves the prediction
 accuracy and reliability of complex drug interactions by combining multi-modal feature extraction, multi-scale subgraph
 information fusion and multi-modal feature fusion mechanism.
   * Experiments on multiple shared data sets show that the model is superior to the existing model, and the practicability is demonstrated by case studies.
