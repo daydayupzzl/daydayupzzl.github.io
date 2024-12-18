@@ -31,8 +31,8 @@ drug-target binding affinity (DTA), outperforming existing methods on benchmark 
   * Applied GraphkmerDTA in an AI-assisted network pharmacology strategy to discover key anti-Alzheimer’s disease
 components from the Lonicera japonica flower, demonstrating the model’s effectiveness in multitarget drug discovery
 
-* ComNet: A Multi-Modal Deep Learning Model for Predicting Drug Combination Side Effects
-  * First author, Revised [Jul 2024 - Sep 2024]
+* ComNet: A Multi-View Deep Learning Model for Predicting Drug Combination Side Effects
+  * First author, Accepted by Journal of Chemical Information and Modeling  [Jul 2024 - Sep 2024]
   * A novel drug-drug interaction (DDI) prediction model named ComNet is proposed, which improves the prediction
 accuracy and reliability of complex drug interactions by combining multi-modal feature extraction, multi-scale subgraph
 information fusion and multi-modal feature fusion mechanism.
