@@ -1,11 +1,10 @@
 ---
 title: "Enhancing generalizability and performance in drug–target interaction identification by integrating pharmacophore and pre-trained models"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/HeteroDTA
 excerpt: 'oral presentation in ISMB 2024'
 date: 28 June 2024
 venue: 'Bioinformatics'
-slidesurl: 'https://academic.oup.com/bioinformatics/article/40/Supplement_1/i539/7700904'
 paperurl: 'https://academic.oup.com/bioinformatics/article/40/Supplement_1/i539/7700904'
 citation: 'Zuolong Zhang, Xin He, Dazhi Long, Gang Luo, Shengbo Chen, Enhancing generalizability and performance in drug–target interaction identification by integrating pharmacophore and pre-trained models, Bioinformatics, Volume 40, Issue Supplement_1, July 2024, Pages i539–i547, https://doi.org/10.1093/bioinformatics/btae240'
 ---
