@@ -2,6 +2,7 @@
 title: "GraphkmerDTA: integrating local sequence patterns and topological information for drug-target binding affinity prediction and applications in multi-target anti-Alzheimer’s drug discovery"
 collection: publications
 permalink: /publication/GraphkmerDTA
+excerpt: ''
 date: 10 January 2025
 venue: 'Molecular Diversity'
 paperurl: 'https://rdcu.be/d5U1t'

@@ -2,9 +2,10 @@
 title: "ComNet: A Multiview Deep Learning Model for Predicting Drug Combination Side Effects"
 collection: publications
 permalink: /publication/ComNet
+excerpt: ''
 date: 03 January 2025
 venue: 'Journal of Chemical Information and Modeling'
-paperurl: 'https://rdcu.be/d5U1t'
+paperurl: 'https://doi.org/10.1021/acs.jcim.4c01737'
 citation: 'Zhang, Z., Liu, F., Shang, X., Chen, S., Zuo, F., Wu, Y., & Long, D. (2025). ComNet: A Multiview Deep Learning Model for Predicting Drug Combination Side Effects. Journal of chemical information and modeling, 10.1021/acs.jcim.4c01737. Advance online publication. https://doi.org/10.1021/acs.jcim.4c01737'
 ---
 
