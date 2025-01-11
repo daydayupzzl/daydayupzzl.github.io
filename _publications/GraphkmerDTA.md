@@ -1,5 +1,5 @@
 ---
-title: "GraphkmerDTA-integrating local sequence patterns and topological information for drug-target binding affinity prediction and applications in multi-target anti-Alzheimer’s drug discovery"
+title: "GraphkmerDTA: integrating local sequence patterns and topological information for drug-target binding affinity prediction and applications in multi-target anti-Alzheimer’s drug discovery"
 collection: publications
 permalink: /publication/GraphkmerDTA
 date: 10 January 2025
