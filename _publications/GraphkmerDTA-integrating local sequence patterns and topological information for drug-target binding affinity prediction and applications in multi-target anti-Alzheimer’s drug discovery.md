@@ -1,10 +1,10 @@
 ---
-title: "GraphkmerDTA: integrating local sequence patterns and topological information for drug-target binding affinity prediction and applications in multi-target anti-Alzheimer’s drug discovery"
+title: "GraphkmerDTA-integrating local sequence patterns and topological information for drug-target binding affinity prediction and applications in multi-target anti-Alzheimer’s drug discovery"
 collection: publications
 permalink: /publication/GraphkmerDTA
 date: 10 January 2025
 venue: 'Molecular Diversity'
-paperurl: 'https://link.springer.com/article/10.1007/s11030-024-11065-7'
+paperurl: 'https://rdcu.be/d5U1t'
 citation: 'Zhang, Z., Luo, G., Ma, Y. et al. GraphkmerDTA: integrating local sequence patterns and topological information for drug-target binding affinity prediction and applications in multi-target anti-Alzheimer’s drug discovery. Mol Divers (2025). https://doi.org/10.1007/s11030-024-11065-7'
 ---
 

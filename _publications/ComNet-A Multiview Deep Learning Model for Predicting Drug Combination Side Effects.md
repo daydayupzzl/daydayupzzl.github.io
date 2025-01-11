@@ -1,5 +1,5 @@
 ---
-title: "ComNet: A Multiview Deep Learning Model for Predicting Drug Combination Side Effects"
+title: "ComNet-A Multiview Deep Learning Model for Predicting Drug Combination Side Effects"
 collection: publications
 permalink: /publication/ComNet
 date: 03 January 2025
